@@ -1,0 +1,5 @@
+<map id="Fiea::Engine::Memory::IMemoryService" name="Fiea::Engine::Memory::IMemoryService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,5,162,112"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_memory_1_1_memory_service.html" title="The main class that handles all heaps and via the interfaces it exposes relevant functionalities such..." alt="" coords="5,160,180,459"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,127,96,160,90,160,90,127"/>
+</map>

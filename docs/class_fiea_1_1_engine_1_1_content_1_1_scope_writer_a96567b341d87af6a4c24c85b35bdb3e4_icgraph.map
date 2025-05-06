@@ -1,0 +1,15 @@
+<map id="Fiea::Engine::Content::ScopeWriter::ResetExternalDataTeller" name="Fiea::Engine::Content::ScopeWriter::ResetExternalDataTeller">
+<area shape="rect" id="Node000001" title="The Handler that set external data status should be the one to reset it." alt="" coords="231,180,422,239"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_array_handler.html#ad73a1f195217bd25e227ae2081eb1496" title=" " alt="" coords="14,5,174,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="292,170,243,114,213,87,181,62,161,51,164,46,184,58,217,83,247,111,296,166"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_float_parse_handler.html#a9ed0c49e00db3cb599446a039694ca69" title=" " alt="" coords="20,72,168,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,175,158,134,160,129,249,171"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_int_parse_handler.html#a8b3d1d183b22a50852fa91fb6aaf129a" title=" " alt="" coords="5,155,183,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,196,183,191,184,186,216,191"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_matrix_handler.html#a6dfd14f5166eee8535e73cbc4e3bc69f" title=" " alt="" coords="12,221,176,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="216,228,177,234,176,228,215,223"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_string_parse_handler.html#a9e31a96c6f070198f3f259075e736aa3" title=" " alt="" coords="20,288,168,347"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="249,248,160,290,158,285,247,243"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_content_1_1_vector_handler.html#ae3b22ca8db36059cc9377169fe59d308" title=" " alt="" coords="11,371,177,413"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="296,253,247,308,217,336,184,361,164,372,161,368,181,356,213,332,243,304,292,249"/>
+</map>

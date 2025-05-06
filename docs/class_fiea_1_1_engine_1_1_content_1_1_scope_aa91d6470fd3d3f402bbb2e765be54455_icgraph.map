@@ -1,0 +1,47 @@
+<map id="Fiea::Engine::Content::Scope::Append" name="Fiea::Engine::Content::Scope::Append">
+<area shape="rect" id="Node000001" title="Return a reference to the Datum at this key. create a new Datum, if one is not found." alt="" coords="717,451,866,493"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#abf39accc1ce38b12bcbc6884ba0165e3" title="You can provide a child scope that you wish this scope to adopt. You should not adopt a scope if it a..." alt="" coords="492,131,640,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="771,438,728,354,699,305,667,259,628,213,590,176,593,172,632,210,671,256,703,303,732,351,776,435"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#adb1089ed0ff92fae8826810cef43e447" title=" " alt="" coords="234,193,409,236"/>
+<area shape="poly" id="edge22_Node000001_Node000007" title=" " alt="" coords="758,442,716,403,668,366,597,325,523,290,391,239,393,234,525,285,600,321,671,362,720,399,761,438"/>
+<area shape="rect" id="Node000012" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a2ed39f31d26f92f8d74c13b4fc466f77" title="This function should be called for ading string, float or ints into the Scope. Any other data type wo..." alt="" coords="490,376,642,419"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="712,448,668,433,634,422,636,417,670,428,714,443"/>
+<area shape="rect" id="Node000018" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a34651717762643ed0dc822db143f7a46" title="Append instance attribute from code." alt="" coords="472,443,659,501"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="702,475,660,475,660,469,702,469"/>
+<area shape="rect" id="Node000020" href="$class_fiea_1_1_engine_1_1_tests_1_1_support_1_1_action_add_datum.html#a8038baa36384ba9702596cbe3e41780e" title=" " alt="" coords="462,525,669,568"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="714,501,670,516,636,527,634,522,668,511,712,496"/>
+<area shape="rect" id="Node000021" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a6a471c05f99de3bd969e99c23704d39b" title="Syntactic sugar to wrap Append." alt="" coords="492,592,640,635"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="763,507,721,546,671,582,641,596,639,591,668,578,718,542,759,503"/>
+<area shape="rect" id="Node000022" href="$namespace_fiea_1_1_engine_1_1_tests.html#a0767a5dea6dd506e0dca7a9f54bd5ad2" title=" " alt="" coords="498,659,633,701"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="777,509,735,580,706,617,671,649,635,668,632,663,668,644,702,613,731,577,772,506"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_game_object.html#a86ede0bbc21133ffa8f398b0636c8b52" title=" " alt="" coords="234,5,409,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="519,124,469,93,413,62,387,51,389,46,415,58,472,88,522,120"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a002f54731a8996f37c4f725d8175ffee" title="This is one of the ways of adding a scope as a child to &#39;this&#39; scope Appending a scope also implies t..." alt="" coords="244,72,399,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="476,133,399,115,400,109,477,128"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a4488fbd92e0706a1207e15a40dac7e22" title=" " alt="" coords="5,127,181,169"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="476,154,181,151,181,146,476,149"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="477,177,408,195,407,190,476,172"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#ae61df0a4225d06e413fbfda3028f8547" title="This creates a new Scope, makes it a child of the current top scope in the stack and pushes it into t..." alt="" coords="5,60,181,103"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="229,91,181,89,181,83,229,86"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="231,191,168,173,170,167,233,186"/>
+<area shape="rect" id="Node000008" href="$class_fiea_1_1_engine_1_1_content_1_1_action_handler.html#a392af20cfeb37d539b88183bc9672f7a" title=" " alt="" coords="6,193,180,236"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="218,217,180,217,180,212,218,212"/>
+<area shape="rect" id="Node000009" href="$class_fiea_1_1_engine_1_1_content_1_1_action_list_handler.html#ae0f8b6534bcf602df112f39202c79ecc" title=" " alt="" coords="19,260,167,319"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="240,244,168,268,167,263,238,239"/>
+<area shape="rect" id="Node000010" href="$class_fiea_1_1_engine_1_1_content_1_1_game_object_handler.html#a626573aebcd7beceb84dbd69bc15105b" title="This handler is specifically for handling any game objects in json and also does some checks to ensur..." alt="" coords="15,343,171,401"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="235,247,231,250,214,270,207,290,199,311,183,333,167,344,164,340,179,329,194,308,202,288,210,267,227,246,232,242"/>
+<area shape="rect" id="Node000011" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_parse_handler.html#a51138cf4e0b638b95c73b4a5acd68842" title=" " alt="" coords="16,425,170,484"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="233,248,231,250,216,270,209,290,206,330,204,371,197,393,183,415,170,427,167,423,179,412,192,391,199,370,201,330,203,289,211,268,227,246,229,244"/>
+<area shape="rect" id="Node000013" href="$class_fiea_1_1_engine_1_1_content_1_1_float_parse_handler.html#abc4c8eb2ad52cd9ebdafba350e9a58d7" title=" " alt="" coords="247,260,396,319"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="501,372,388,322,390,317,503,367"/>
+<area shape="rect" id="Node000014" href="$class_fiea_1_1_engine_1_1_content_1_1_int_parse_handler.html#aa99263839bdc482fcd4a5874ef682029" title=" " alt="" coords="229,343,414,385"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="474,388,414,379,415,374,475,382"/>
+<area shape="rect" id="Node000015" href="$class_fiea_1_1_engine_1_1_content_1_1_matrix_handler.html#af6b07a2232dbc15a91484634a6881499" title=" " alt="" coords="235,409,408,452"/>
+<area shape="poly" id="edge15_Node000012_Node000015" title=" " alt="" coords="475,412,408,422,408,416,474,407"/>
+<area shape="rect" id="Node000016" href="$class_fiea_1_1_engine_1_1_content_1_1_string_parse_handler.html#a6e8f0ecc1992ee741847c1ad14069a30" title=" " alt="" coords="247,476,396,535"/>
+<area shape="poly" id="edge16_Node000012_Node000016" title=" " alt="" coords="476,427,463,433,439,449,415,466,393,478,391,473,413,462,436,445,461,428,474,422"/>
+<area shape="rect" id="Node000017" href="$class_fiea_1_1_engine_1_1_content_1_1_vector_handler.html#a79774cea459da02c0eb57bcf2ca84821" title=" " alt="" coords="235,559,408,601"/>
+<area shape="poly" id="edge17_Node000012_Node000017" title=" " alt="" coords="477,423,464,433,452,446,445,460,440,489,435,518,428,534,416,549,401,560,397,556,412,545,424,531,430,517,435,488,440,459,448,443,460,429,474,418"/>
+<area shape="rect" id="Node000019" href="$namespace_fiea_1_1_engine_1_1_tests.html#acf19d1e24b6e04bb3eefd39b994f462d" title=" " alt="" coords="254,625,388,668"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="466,513,464,515,447,540,441,564,434,590,416,615,390,632,388,627,412,611,429,587,436,563,442,537,460,512,463,509"/>
+</map>

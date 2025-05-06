@@ -1,0 +1,17 @@
+<map id="Fiea::Engine::Content::Attributed::InstanceAttributes" name="Fiea::Engine::Content::Attributed::InstanceAttributes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,205,81"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a425074997d68415e416d74ac9d47e4b3" title=" " alt="" coords="279,5,430,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,44,263,36,264,41,206,49"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#adaed7bf877c03d16edb097acff6bd8ac" title="Is the attribute added to the instance?" alt="" coords="253,72,456,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,71,237,75,237,80,205,76"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#aa5969fb315f7ab6f858bde895196fe1f" title="Is the string provided by the user an attribute." alt="" coords="521,35,674,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="456,75,505,67,506,73,457,80"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a175ef1779adacec6434ea9bda35186bc" title="Is the attribute part of the class defintion." alt="" coords="504,105,691,148"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="457,105,489,109,488,114,456,110"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ad924c01785b239991fc0e56a63295612" title="Return the Datum at the requested key, or nullptr if not found." alt="" coords="765,31,914,73"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="675,52,750,51,750,56,675,57"/>
+<area shape="rect" id="Node000007" href="$struct_fiea_1_1_engine_1_1_content_1_1_i_type_provider.html#acf000f8d213c81f746d8e6f19c7b12f4" title=" " alt="" coords="739,97,940,156"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="692,124,724,124,724,129,692,129"/>
+<area shape="rect" id="Node000008" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a876bebbe7b3149483c43a87f55f4ea99" title=" " alt="" coords="774,180,905,223"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="670,146,760,174,758,179,669,151"/>
+</map>

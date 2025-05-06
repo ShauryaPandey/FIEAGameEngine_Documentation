@@ -1,0 +1,64 @@
+<map id="Fiea::Engine::Content::Datum::Size" name="Fiea::Engine::Content::Datum::Size">
+<area shape="rect" id="Node000001" title=" " alt="" coords="960,660,1108,703"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_action_list.html#a61d6676694ddead07acc69a9dea0da24" title="Init is called as the action is starting, Usually we put all the code that needs to run once...." alt="" coords="727,201,892,244"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1030,644,1026,565,1009,462,994,407,973,353,945,303,910,258,891,244,894,239,914,254,949,300,978,351,999,405,1014,460,1031,564,1036,644"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a85505c22dfd7e858fe2f1868715e3812" title=" " alt="" coords="735,268,884,311"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1028,645,1020,577,1000,491,985,446,965,402,940,361,910,325,882,307,885,302,913,321,945,358,970,400,990,444,1006,490,1025,576,1033,644"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#ab7bb44684e4d83d0842c3474def99b7f" title=" " alt="" coords="735,335,884,377"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1025,645,1013,589,991,521,958,451,936,420,910,391,882,374,885,369,913,387,940,416,962,449,996,519,1018,588,1030,644"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a4ccb082ce85390925305f19a24daaed8" title="This function is for pushing an element at the back of the data union array. It is using a universal ..." alt="" coords="735,401,884,444"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1002,650,827,446,831,443,1006,646"/>
+<area shape="rect" id="Node000011" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#adb1089ed0ff92fae8826810cef43e447" title=" " alt="" coords="229,205,404,248"/>
+<area shape="poly" id="edge21_Node000001_Node000011" title=" " alt="" coords="991,653,953,629,911,609,867,600,810,596,676,595,608,593,544,588,490,577,450,558,415,525,386,485,364,442,347,397,325,312,317,249,322,248,330,311,352,395,369,439,391,482,419,521,454,554,492,572,545,583,608,588,676,589,810,591,868,595,913,604,956,624,994,648"/>
+<area shape="rect" id="Node000028" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_action_list.html#a174321b3790604e933b2210235d2c62a" title="Resets the actions owned by the list." alt="" coords="735,619,884,677"/>
+<area shape="poly" id="edge22_Node000001_Node000028" title=" " alt="" coords="944,671,884,662,885,656,945,665"/>
+<area shape="rect" id="Node000031" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_delayed_action.html#a2f06440518f0083c5302251ba2d5e3c0" title="Checks if the delay is over. And executes the actions until they all are over." alt="" coords="456,784,655,827"/>
+<area shape="poly" id="edge27_Node000001_Node000031" title=" " alt="" coords="944,690,830,707,768,722,708,742,685,758,661,774,633,786,631,781,658,770,682,753,706,738,766,717,829,702,944,685"/>
+<area shape="rect" id="Node000032" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_action_list.html#ad7daf7d0f6bb5b868c4cb602aaf8a236" title="Any code that we want to run recursively goes here. It returns false if it needs to run one more iter..." alt="" coords="724,752,895,795"/>
+<area shape="poly" id="edge26_Node000001_Node000032" title=" " alt="" coords="970,712,913,736,868,754,866,749,911,731,968,707"/>
+<area shape="rect" id="Node000033" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_timed_action.html#acaf7a9c271c20baaeeb15b4fa713f323" title="Executes all the actions the TimedAction contains. It checks if the current time is less than the tar..." alt="" coords="716,819,903,861"/>
+<area shape="poly" id="edge28_Node000001_Node000033" title=" " alt="" coords="1010,717,968,764,942,788,913,809,891,821,888,816,910,804,938,784,964,760,1006,713"/>
+<area shape="rect" id="Node000034" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_while_action_list.html#a87d627d5c0691325cb255ad15934e5d8" title="The logic that needs to run repetitively." alt="" coords="707,885,912,928"/>
+<area shape="poly" id="edge29_Node000001_Node000034" title=" " alt="" coords="1021,718,1004,755,981,797,950,839,913,875,895,887,892,882,910,871,946,836,976,794,1000,753,1016,716"/>
+<area shape="rect" id="Node000035" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a5838035e273bc8ab707554992f07ab2e" title=" " alt="" coords="735,952,884,995"/>
+<area shape="poly" id="edge30_Node000001_Node000035" title=" " alt="" coords="1028,719,1014,768,991,828,958,889,937,917,913,942,886,959,883,955,910,938,933,914,954,886,986,826,1009,767,1023,717"/>
+<area shape="rect" id="Node000037" href="$namespace_fiea_1_1_engine_1_1_tests.html#a15040015fac83efdce86366a293948ae" title=" " alt="" coords="742,1019,877,1061"/>
+<area shape="poly" id="edge32_Node000001_Node000037" title=" " alt="" coords="1032,718,1022,780,1001,858,986,899,966,939,942,976,913,1009,897,1021,878,1030,876,1025,894,1017,910,1005,938,972,962,936,981,897,996,857,1016,779,1027,717"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#abf39accc1ce38b12bcbc6884ba0165e3" title="You can provide a child scope that you wish this scope to adopt. You should not adopt a scope if it a..." alt="" coords="482,35,630,77"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="720,404,705,391,681,352,673,314,674,276,681,239,687,202,689,165,681,128,657,91,644,80,629,71,632,66,648,75,661,88,685,126,694,165,693,203,686,240,679,277,678,313,686,350,709,388,724,400"/>
+<area shape="rect" id="Node000016" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a2ed39f31d26f92f8d74c13b4fc466f77" title="This function should be called for ading string, float or ints into the Scope. Any other data type wo..." alt="" coords="480,101,632,144"/>
+<area shape="poly" id="edge14_Node000005_Node000016" title=" " alt="" coords="720,404,705,391,686,361,677,331,677,301,681,272,684,244,684,215,676,187,657,158,631,139,634,135,661,154,681,184,689,214,690,244,686,273,682,302,683,330,690,359,709,388,723,400"/>
+<area shape="rect" id="Node000022" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a07e356344548914a00b0f3af50593743" title=" " alt="" coords="482,168,630,211"/>
+<area shape="poly" id="edge15_Node000005_Node000022" title=" " alt="" coords="720,403,705,391,690,370,682,348,681,306,679,265,672,245,657,225,629,206,632,201,661,221,677,242,685,264,686,306,687,347,694,367,709,387,723,399"/>
+<area shape="rect" id="Node000023" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a5594d9dd3a0a4b365bcbb2aa5db4e94f" title=" " alt="" coords="482,235,630,277"/>
+<area shape="poly" id="edge16_Node000005_Node000023" title=" " alt="" coords="720,402,706,391,694,379,687,365,681,340,675,315,668,303,658,291,629,274,632,269,661,287,673,300,680,313,686,339,692,364,698,375,709,387,723,397"/>
+<area shape="rect" id="Node000024" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_preamble_action.html#a44a59e04e805964256440543040d2aee" title="Searches for the variable that needs to be initialized and sets the value. Returns true because there..." alt="" coords="456,301,655,344"/>
+<area shape="poly" id="edge17_Node000005_Node000024" title=" " alt="" coords="720,398,706,392,682,375,658,358,632,347,634,342,661,354,685,370,709,387,722,393"/>
+<area shape="rect" id="Node000025" href="$class_fiea_1_1_engine_1_1_tests_1_1_support_1_1_action_add_datum.html#a8038baa36384ba9702596cbe3e41780e" title=" " alt="" coords="452,368,659,411"/>
+<area shape="poly" id="edge18_Node000005_Node000025" title=" " alt="" coords="719,414,659,406,660,400,720,408"/>
+<area shape="rect" id="Node000026" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a5470e7bc6508298cedbf1f200c765493" title="Push a value of type T into the array in the data union. User has to explicitly pass in the template ..." alt="" coords="470,435,641,477"/>
+<area shape="poly" id="edge19_Node000005_Node000026" title=" " alt="" coords="720,437,642,447,641,442,719,432"/>
+<area shape="rect" id="Node000027" href="$namespace_fiea_1_1_engine_1_1_tests.html#a0767a5dea6dd506e0dca7a9f54bd5ad2" title=" " alt="" coords="488,501,623,544"/>
+<area shape="poly" id="edge20_Node000005_Node000027" title=" " alt="" coords="750,453,660,492,624,505,623,500,658,487,748,449"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_game_object.html#a86ede0bbc21133ffa8f398b0636c8b52" title=" " alt="" coords="229,5,404,48"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="466,48,404,40,405,35,467,42"/>
+<area shape="rect" id="Node000010" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a4488fbd92e0706a1207e15a40dac7e22" title=" " alt="" coords="5,64,181,107"/>
+<area shape="poly" id="edge7_Node000006_Node000010" title=" " alt="" coords="466,64,181,82,181,77,466,59"/>
+<area shape="poly" id="edge8_Node000006_Node000011" title=" " alt="" coords="469,83,453,92,417,118,384,149,335,207,331,203,380,146,414,114,451,87,466,79"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="280,197,234,158,179,121,156,110,159,105,182,116,237,154,283,193"/>
+<area shape="rect" id="Node000012" href="$class_fiea_1_1_engine_1_1_content_1_1_action_handler.html#a392af20cfeb37d539b88183bc9672f7a" title=" " alt="" coords="6,131,180,173"/>
+<area shape="poly" id="edge9_Node000011_Node000012" title=" " alt="" coords="235,202,158,176,160,171,236,197"/>
+<area shape="rect" id="Node000013" href="$class_fiea_1_1_engine_1_1_content_1_1_action_list_handler.html#ae0f8b6534bcf602df112f39202c79ecc" title=" " alt="" coords="19,197,167,256"/>
+<area shape="poly" id="edge10_Node000011_Node000013" title=" " alt="" coords="213,229,168,229,168,224,213,224"/>
+<area shape="rect" id="Node000014" href="$class_fiea_1_1_engine_1_1_content_1_1_game_object_handler.html#a626573aebcd7beceb84dbd69bc15105b" title="This handler is specifically for handling any game objects in json and also does some checks to ensur..." alt="" coords="15,280,171,339"/>
+<area shape="poly" id="edge11_Node000011_Node000014" title=" " alt="" coords="243,256,172,283,170,278,242,251"/>
+<area shape="rect" id="Node000015" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_parse_handler.html#a51138cf4e0b638b95c73b4a5acd68842" title=" " alt="" coords="16,363,170,421"/>
+<area shape="poly" id="edge12_Node000011_Node000015" title=" " alt="" coords="287,262,239,307,182,353,163,364,161,360,179,348,236,303,283,258"/>
+<area shape="rect" id="Node000029" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_action_list.html#ac68f2de1db5c8be125e18abe01b1e2a0" title="Reseting the ActionList. Any custom logic that needs to be executed before it is reinitalized must go..." alt="" coords="482,619,630,677"/>
+<area shape="poly" id="edge23_Node000028_Node000029" title=" " alt="" coords="719,651,630,651,630,645,719,645"/>
+<area shape="rect" id="Node000030" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_delayed_action.html#a023224fb53b5ee15767cf4721731c3e8" title="Reseting the ActionList. Any custom logic that needs to be executed before it is reinitalized must go..." alt="" coords="472,701,639,760"/>
+<area shape="poly" id="edge24_Node000028_Node000030" title=" " alt="" coords="721,680,640,706,638,701,719,675"/>
+<area shape="poly" id="edge25_Node000028_Node000031" title=" " alt="" coords="723,687,709,698,694,717,686,736,678,755,661,774,642,786,640,781,658,770,674,752,681,734,689,714,705,694,720,683"/>
+<area shape="rect" id="Node000036" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#acd993566fda823980fac4cbfc799fbcf" title="This function is for setting external storage on the datum." alt="" coords="482,952,630,995"/>
+<area shape="poly" id="edge31_Node000035_Node000036" title=" " alt="" coords="720,976,630,976,630,971,720,971"/>
+</map>

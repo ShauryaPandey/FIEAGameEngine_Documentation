@@ -1,0 +1,5 @@
+<map id="Fiea::Engine::Memory::Allocator::Alloc" name="Fiea::Engine::Memory::Allocator::Alloc">
+<area shape="rect" id="Node000001" title="Allocator Alloc calls Heaps alloc since the heap is not visible to the users." alt="" coords="253,5,402,48"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_memory_1_1_memory_service.html#a86c1c240a571b2f51e024f35f810e86c" title="This is called from overriden new global. If there is an allocator in the stack it allocates memory i..." alt="" coords="5,5,205,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,29,205,29,205,24,237,24"/>
+</map>

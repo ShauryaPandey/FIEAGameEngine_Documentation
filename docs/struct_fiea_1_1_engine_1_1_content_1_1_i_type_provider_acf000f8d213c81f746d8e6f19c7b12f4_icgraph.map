@@ -1,0 +1,19 @@
+<map id="Fiea::Engine::Content::ITypeProvider::RetrieveClassDefinition" name="Fiea::Engine::Content::ITypeProvider::RetrieveClassDefinition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="922,101,1122,160"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a175ef1779adacec6434ea9bda35186bc" title="Is the attribute part of the class defintion." alt="" coords="686,109,874,152"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="906,133,874,133,874,128,906,128"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a34651717762643ed0dc822db143f7a46" title="Append instance attribute from code." alt="" coords="443,5,630,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="709,106,612,67,614,62,711,101"/>
+<area shape="rect" id="Node000004" href="$namespace_fiea_1_1_engine_1_1_tests.html#acf19d1e24b6e04bb3eefd39b994f462d" title=" " alt="" coords="5,139,140,181"/>
+<area shape="poly" id="edge10_Node000002_Node000004" title=" " alt="" coords="670,130,638,129,511,124,412,118,314,117,188,129,138,141,136,135,187,124,313,112,412,112,511,119,638,124,671,125"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a11d0f196f168577da9dfc5d9062b5298" title="Returns the attributes that belong to the class by definition." alt="" coords="196,139,379,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="671,140,380,157,379,152,671,134"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#adaed7bf877c03d16edb097acff6bd8ac" title="Is the attribute added to the instance?" alt="" coords="435,197,638,240"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="705,160,599,199,597,194,703,155"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="428,40,310,53,248,66,189,85,140,111,100,140,97,136,137,106,187,80,247,61,310,48,427,34"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="180,163,140,163,140,157,180,157"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="419,219,307,212,187,196,139,185,141,179,188,191,307,206,420,214"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a765ff8b9803452293255177e43f5e6f3" title=" " alt="" coords="188,256,387,299"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="429,247,382,258,381,253,428,242"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="212,252,186,240,140,212,101,184,104,180,143,207,189,235,214,247"/>
+</map>

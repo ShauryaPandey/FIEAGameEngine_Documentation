@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$struct_fiea_1_1_engine_1_1_i_time_provider.html" title=" " alt="" coords="5,5,189,32"/>
+<area shape="rect" id="Node000001" href="$struct_fiea_1_1_engine_1_1_i_time_updater.html" title=" " alt="" coords="237,5,418,32"/>
+<area shape="poly" id="edge16_Node000000_Node000001" title=" " alt="" coords="204,16,236,16,236,21,204,21"/>
+<area shape="rect" id="Node000002" href="$struct_fiea_1_1_engine_1_1_clock_service.html" title="A clock service that games might need to test various things such as&#45; Testing a &quot;daily&quot; achievement t..." alt="" coords="466,5,646,32"/>
+<area shape="poly" id="edge17_Node000001_Node000002" title=" " alt="" coords="433,16,465,16,465,21,433,21"/>
+</map>

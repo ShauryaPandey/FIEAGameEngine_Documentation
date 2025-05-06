@@ -1,0 +1,17 @@
+<map id="Fiea::Engine::Content::Actions::Action::Init" name="Fiea::Engine::Content::Actions::Action::Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="474,172,622,215"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_action.html#a698815d895c6612c8ae91f6094d1c297" title="Update is not a virtual function, the actions users of engine define will define Init,..." alt="" coords="258,172,426,215"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="459,196,426,196,426,191,459,191"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_action_list.html#a61d6676694ddead07acc69a9dea0da24" title="Init is called as the action is starting, Usually we put all the code that needs to run once...." alt="" coords="25,5,190,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="313,162,268,110,239,85,208,62,186,51,189,46,211,58,242,81,271,107,317,158"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_while_action_list.html#a972d59921793e006691ec0c2f0f32a87" title="Initial setup if any for the action." alt="" coords="8,72,207,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="287,167,209,129,179,118,181,113,211,124,290,162"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_action_list.html#ad7daf7d0f6bb5b868c4cb602aaf8a236" title="Any code that we want to run recursively goes here. It returns false if it needs to run one more iter..." alt="" coords="22,139,193,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="242,182,193,175,194,170,243,177"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_delayed_action.html#a2f06440518f0083c5302251ba2d5e3c0" title="Checks if the delay is over. And executes the actions until they all are over." alt="" coords="8,205,207,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="243,210,207,215,207,210,242,205"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_timed_action.html#acaf7a9c271c20baaeeb15b4fa713f323" title="Executes all the actions the TimedAction contains. It checks if the current time is less than the tar..." alt="" coords="14,272,201,315"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="290,225,211,262,181,274,179,269,209,258,287,220"/>
+<area shape="rect" id="Node000008" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_while_action_list.html#a87d627d5c0691325cb255ad15934e5d8" title="The logic that needs to run repetitively." alt="" coords="5,339,210,381"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="317,229,271,280,242,306,211,329,189,340,186,336,208,324,239,302,268,276,313,225"/>
+</map>

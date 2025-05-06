@@ -1,0 +1,15 @@
+<map id="Fiea::Engine::Content::VectorHandler::ExitKey" name="Fiea::Engine::Content::VectorHandler::ExitKey">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,64,171,107"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a15bd5993c8ad04da47af440298ebbb30" title=" " alt="" coords="237,5,392,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,61,218,41,244,34,246,39,219,47,156,66"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a9b532cf2870d114a3cb24555ddd1cba5" title=" " alt="" coords="221,56,408,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,83,205,83,205,88,171,88"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a96567b341d87af6a4c24c85b35bdb3e4" title="The Handler that set external data status should be the one to reset it." alt="" coords="219,139,410,197"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="150,105,218,130,217,135,148,110"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#ac0a7d875e4513b2aca7594abcd4418ef" title=" " alt="" coords="473,5,623,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="393,16,457,16,457,21,393,21"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ad924c01785b239991fc0e56a63295612" title="Return the Datum at the requested key, or nullptr if not found." alt="" coords="474,60,622,103"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="408,81,459,80,459,86,408,86"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a9b05337db582483976624ab93839bfa7" title=" " alt="" coords="458,127,638,169"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="409,108,452,120,451,125,408,113"/>
+</map>

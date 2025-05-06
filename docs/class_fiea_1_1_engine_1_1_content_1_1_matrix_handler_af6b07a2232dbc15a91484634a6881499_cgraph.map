@@ -1,0 +1,32 @@
+<map id="Fiea::Engine::Content::MatrixHandler::EnterKey" name="Fiea::Engine::Content::MatrixHandler::EnterKey">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,197,178,240"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a2ed39f31d26f92f8d74c13b4fc466f77" title="This function should be called for ading string, float or ints into the Scope. Any other data type wo..." alt="" coords="252,139,404,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,195,236,180,237,185,179,200"/>
+<area shape="rect" id="Node000010" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a15bd5993c8ad04da47af440298ebbb30" title=" " alt="" coords="250,235,406,261"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="178,227,235,234,235,239,178,232"/>
+<area shape="rect" id="Node000012" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a9b532cf2870d114a3cb24555ddd1cba5" title=" " alt="" coords="234,315,422,373"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="135,238,259,305,256,309,132,243"/>
+<area shape="rect" id="Node000015" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a81d8847be5d2eb6189de44fcfb04a134" title=" " alt="" coords="226,27,430,85"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="123,195,270,92,273,97,126,199"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#aa91d6470fd3d3f402bbb2e765be54455" title="Return a reference to the Datum at this key. create a new Datum, if one is not found." alt="" coords="502,72,650,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,137,486,115,487,120,405,142"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a626dca625d92c898453cf9d75d9573d3" title=" " alt="" coords="478,5,673,48"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="365,136,428,95,452,76,477,58,488,52,490,57,479,62,455,80,432,99,368,141"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a4ccb082ce85390925305f19a24daaed8" title="This function is for pushing an element at the back of the data union array. It is using a universal ..." alt="" coords="502,139,650,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="404,157,486,157,486,163,404,163"/>
+<area shape="rect" id="Node000009" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a2e77039e198d4eb10dfd1795117bf4d3" title="Set value at a specific index. This uses universal operator so it can bind to lrefs and rrefs." alt="" coords="502,205,650,248"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="405,178,487,200,486,205,404,183"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#ac2c889535360fcb22e94133869c4ae29" title=" " alt="" coords="723,72,871,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="648,136,708,117,710,122,649,141"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#aede9c541fd5184f33e84640a787d421d" title=" " alt="" coords="721,139,873,181"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="650,157,706,157,706,163,650,163"/>
+<area shape="rect" id="Node000008" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#acae68c3bc8b20345e4c3790fa37bd8d5" title=" " alt="" coords="723,205,871,248"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="649,179,710,198,708,203,648,184"/>
+<area shape="rect" id="Node000011" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#ac0a7d875e4513b2aca7594abcd4418ef" title=" " alt="" coords="500,272,651,299"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="406,257,486,269,485,274,406,262"/>
+<area shape="rect" id="Node000013" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ad924c01785b239991fc0e56a63295612" title="Return the Datum at the requested key, or nullptr if not found." alt="" coords="502,323,650,365"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="422,341,486,341,486,347,422,347"/>
+<area shape="rect" id="Node000014" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a9b05337db582483976624ab93839bfa7" title=" " alt="" coords="486,389,666,432"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="423,367,479,382,478,387,421,372"/>
+<area shape="poly" id="edge15_Node000015_Node000004" title=" " alt="" coords="430,41,462,37,463,43,431,47"/>
+</map>

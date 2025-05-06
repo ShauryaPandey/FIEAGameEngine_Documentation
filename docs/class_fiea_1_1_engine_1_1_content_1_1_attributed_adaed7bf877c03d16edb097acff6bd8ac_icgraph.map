@@ -1,0 +1,8 @@
+<map id="Fiea::Engine::Content::Attributed::IsInstanceAttribute" name="Fiea::Engine::Content::Attributed::IsInstanceAttribute">
+<area shape="rect" id="Node000001" title="Is the attribute added to the instance?" alt="" coords="435,35,638,77"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a765ff8b9803452293255177e43f5e6f3" title=" " alt="" coords="188,5,387,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="419,45,387,41,388,36,420,40"/>
+<area shape="rect" id="Node000003" href="$namespace_fiea_1_1_engine_1_1_tests.html#acf19d1e24b6e04bb3eefd39b994f462d" title=" " alt="" coords="5,35,140,77"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="419,62,387,63,188,63,140,61,140,56,188,57,387,57,419,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="173,45,140,49,140,44,172,40"/>
+</map>

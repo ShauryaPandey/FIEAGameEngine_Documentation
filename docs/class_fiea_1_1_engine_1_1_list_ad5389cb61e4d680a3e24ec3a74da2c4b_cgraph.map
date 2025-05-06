@@ -1,0 +1,7 @@
+<map id="Fiea::Engine::List::operator=" name="Fiea::Engine::List::operator=">
+<area shape="rect" id="Node000001" title="Assign operator. It is used when List a = b. Transfers all elements from one list to another." alt="" coords="5,35,129,77"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_list.html#a95a54eb9516d0e6a240069dc6f81b106" title="Returns an iterator that holds the first element of the list." alt="" coords="191,5,314,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,44,175,36,176,41,130,49"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_list.html#a964d262d4dd1ba56624187155216cf5e" title="Returns an iterator that holds the sentinel which is the node after the last node." alt="" coords="177,72,329,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,63,161,68,161,73,129,68"/>
+</map>

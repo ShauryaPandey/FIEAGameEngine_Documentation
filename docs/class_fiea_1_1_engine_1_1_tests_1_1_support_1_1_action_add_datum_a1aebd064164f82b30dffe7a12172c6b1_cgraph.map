@@ -1,0 +1,11 @@
+<map id="Fiea::Engine::Tests::Support::ActionAddDatum::Cleanup" name="Fiea::Engine::Tests::Support::ActionAddDatum::Cleanup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,187,89"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ac4627f740867a929957ce0647f436e02" title="Getter for Parent." alt="" coords="242,5,390,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,44,226,38,227,43,187,49"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#aa6308433cea4af43f97e24234524500c" title=" " alt="" coords="235,72,397,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,71,220,76,219,81,187,76"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ad924c01785b239991fc0e56a63295612" title="Return the Datum at the requested key, or nullptr if not found." alt="" coords="445,39,593,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="397,77,429,72,430,77,398,83"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a740662b031de78f05b9f9ce7dac13d8f" title="What is the type of the Datum, returns true or false." alt="" coords="445,105,593,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="398,104,430,109,429,115,397,109"/>
+</map>

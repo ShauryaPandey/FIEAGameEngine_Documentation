@@ -1,0 +1,7 @@
+<map id="Fiea::Engine::Content::Scope::RemoveDatum" name="Fiea::Engine::Content::Scope::RemoveDatum">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,168,81"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ad924c01785b239991fc0e56a63295612" title="Return the Datum at the requested key, or nullptr if not found." alt="" coords="216,5,364,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,44,200,39,201,44,169,49"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a740662b031de78f05b9f9ce7dac13d8f" title="What is the type of the Datum, returns true or false." alt="" coords="216,72,364,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,71,201,76,200,81,168,76"/>
+</map>

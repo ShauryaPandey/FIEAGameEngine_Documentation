@@ -1,0 +1,5 @@
+<map id="Fiea::Engine::Content::Scope::IsAncestorOf" name="Fiea::Engine::Content::Scope::IsAncestorOf">
+<area shape="rect" id="Node000001" title="Tells if this scope is present somewhere higher up in the scopes tree as a parent." alt="" coords="5,5,157,48"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a8f7dfeddfe92368a8d160ed2b805640f" title="Tell if this scope is present somewhere lower down in the scopes tree as a child." alt="" coords="205,5,374,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,24,189,24,189,29,157,29"/>
+</map>

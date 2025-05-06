@@ -1,0 +1,5 @@
+<map id="Fiea::Engine::Content::Scope::operator[]" name="Fiea::Engine::Content::Scope::operator[]">
+<area shape="rect" id="Node000001" title="Syntactic sugar to wrap Append." alt="" coords="5,5,154,48"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#aa91d6470fd3d3f402bbb2e765be54455" title="Return a reference to the Datum at this key. create a new Datum, if one is not found." alt="" coords="202,5,350,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,24,186,24,186,29,154,29"/>
+</map>

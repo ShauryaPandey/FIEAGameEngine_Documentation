@@ -1,0 +1,11 @@
+<map id="Fiea::Engine::Content::Scope::operator=" name="Fiea::Engine::Content::Scope::operator=">
+<area shape="rect" id="Node000001" title="Copy Assignment." alt="" coords="431,39,579,81"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a4b2cb8b7f86f4b7df9fc7dd15040affe" title=" " alt="" coords="235,5,383,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="415,47,383,42,384,37,416,42"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#ad00b7ac2fa53d92d617e235da1f83055" title=" " alt="" coords="235,72,383,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="416,78,384,83,383,78,415,73"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_action.html#a8b550e6b4c11a011c42baf0b9b042d92" title=" " alt="" coords="5,39,187,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="219,82,187,77,188,72,220,77"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_action.html#add6e558de0fd8848db339bfb352b2164" title=" " alt="" coords="5,105,187,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="220,110,188,115,187,110,219,105"/>
+</map>

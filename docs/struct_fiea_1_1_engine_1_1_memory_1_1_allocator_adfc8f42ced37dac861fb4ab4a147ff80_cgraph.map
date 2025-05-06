@@ -1,0 +1,5 @@
+<map id="Fiea::Engine::Memory::Allocator::Alloc" name="Fiea::Engine::Memory::Allocator::Alloc">
+<area shape="rect" id="Node000001" title="Allocator Alloc calls Heaps alloc since the heap is not visible to the users." alt="" coords="5,5,155,48"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_memory_1_1_heap.html#af24b39713764139d3437708b5dd9a2a5" title="User provides block size they want. This function iterates through blocks and checks for free and siz..." alt="" coords="203,5,352,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,24,187,24,187,29,155,29"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Fiea::Engine::Content::Scope::Scope" name="Fiea::Engine::Content::Scope::Scope">
+<area shape="rect" id="Node000001" title=" " alt="" coords="452,105,600,148"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_game_object.html#a86ede0bbc21133ffa8f398b0636c8b52" title=" " alt="" coords="229,5,404,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,100,403,62,376,51,379,46,405,58,477,95"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a002f54731a8996f37c4f725d8175ffee" title="This is one of the ways of adding a scope as a child to &#39;this&#39; scope Appending a scope also implies t..." alt="" coords="239,72,394,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="436,115,394,108,395,103,437,110"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a3c12c199b42e5dab5491debf35d2c429" title="Clone function." alt="" coords="242,139,390,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="437,143,392,151,391,146,436,138"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_game_object.html#ae53c9484e5fdc34b527e85fffe8af53e" title=" " alt="" coords="229,205,404,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="477,158,405,196,379,207,376,202,403,191,474,153"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#ae61df0a4225d06e413fbfda3028f8547" title="This creates a new Scope, makes it a child of the current top scope in the stack and pushes it into t..." alt="" coords="5,72,181,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="223,96,181,96,181,91,223,91"/>
+<area shape="rect" id="Node000007" href="$namespace_fiea_1_1_engine_1_1_tests.html#abf824a753b0112aae643057c7f756482" title=" " alt="" coords="26,205,160,248"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="213,229,161,229,161,224,213,224"/>
+</map>

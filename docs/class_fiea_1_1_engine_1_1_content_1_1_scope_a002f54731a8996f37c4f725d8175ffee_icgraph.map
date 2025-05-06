@@ -1,0 +1,5 @@
+<map id="Fiea::Engine::Content::Scope::AppendScope" name="Fiea::Engine::Content::Scope::AppendScope">
+<area shape="rect" id="Node000001" title="This is one of the ways of adding a scope as a child to &#39;this&#39; scope Appending a scope also implies t..." alt="" coords="229,5,384,48"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#ae61df0a4225d06e413fbfda3028f8547" title="This creates a new Scope, makes it a child of the current top scope in the stack and pushes it into t..." alt="" coords="5,5,181,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,29,181,29,181,24,213,24"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="Fiea::Engine::Content::ScopeWriter::IsDataExternal" name="Fiea::Engine::Content::ScopeWriter::IsDataExternal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="491,184,686,227"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a2ed39f31d26f92f8d74c13b4fc466f77" title="This function should be called for ading string, float or ints into the Scope. Any other data type wo..." alt="" coords="265,147,417,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="475,191,417,182,418,177,476,186"/>
+<area shape="rect" id="Node000008" href="$class_fiea_1_1_engine_1_1_content_1_1_scope_writer.html#a81d8847be5d2eb6189de44fcfb04a134" title=" " alt="" coords="239,213,443,272"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="476,225,444,230,443,225,475,220"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_float_parse_handler.html#abc4c8eb2ad52cd9ebdafba350e9a58d7" title=" " alt="" coords="24,288,172,347"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,195,240,203,224,221,217,239,209,258,192,278,174,291,171,287,189,274,204,255,212,237,220,218,237,199,250,191"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_int_parse_handler.html#aa99263839bdc482fcd4a5874ef682029" title=" " alt="" coords="5,5,191,48"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="301,139,249,100,189,62,165,51,167,46,192,58,252,95,304,135"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_matrix_handler.html#af6b07a2232dbc15a91484634a6881499" title=" " alt="" coords="12,72,184,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="253,144,169,118,171,113,255,139"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_string_parse_handler.html#a6e8f0ecc1992ee741847c1ad14069a30" title=" " alt="" coords="24,139,172,197"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="249,171,173,171,173,165,249,165"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_content_1_1_vector_handler.html#a79774cea459da02c0eb57bcf2ca84821" title=" " alt="" coords="11,221,185,264"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="255,197,171,223,169,218,253,192"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="230,280,174,297,172,292,228,275"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="239,205,237,203,223,185,216,166,212,131,209,96,202,79,189,62,175,51,178,46,193,58,206,76,214,95,218,130,221,165,228,182,241,200,242,201"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="241,207,237,203,220,184,212,165,205,147,189,129,172,117,174,113,192,125,209,144,217,163,225,181,241,199,244,202"/>
+<area shape="poly" id="edge12_Node000008_Node000006" title=" " alt="" coords="228,211,172,193,174,188,230,206"/>
+<area shape="poly" id="edge13_Node000008_Node000007" title=" " alt="" coords="223,245,185,245,185,240,223,240"/>
+<area shape="rect" id="Node000009" href="$class_fiea_1_1_engine_1_1_content_1_1_array_handler.html#a12c964e02fd52210a503839f93f9bcd5" title=" " alt="" coords="14,371,182,413"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="298,285,248,324,192,361,168,373,166,368,189,356,245,320,294,281"/>
+</map>

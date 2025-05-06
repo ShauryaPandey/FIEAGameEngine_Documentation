@@ -1,0 +1,9 @@
+<map id="Fiea::Engine::Content::ScopeWriter" name="Fiea::Engine::Content::ScopeWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="78,679,216,977"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_parse_writer.html" title=" " alt="" coords="78,373,216,629"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,644,150,679,144,679,144,644"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html" title=" " alt="" coords="5,5,126,309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,323,120,373,114,374,103,324"/>
+<area shape="rect" id="Node000004" href="$struct_fiea_1_1_engine_1_1_content_1_1_parse_writer_1_1_blackboard.html" title="We need this data because the Parser has no knowledge of which handler is which is which...." alt="" coords="150,83,310,232"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="215,233,184,358,179,356,210,231"/>
+</map>

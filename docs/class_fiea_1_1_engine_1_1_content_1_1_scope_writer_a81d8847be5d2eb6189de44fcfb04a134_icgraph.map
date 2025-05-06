@@ -1,0 +1,15 @@
+<map id="Fiea::Engine::Content::ScopeWriter::SetExternalDataTeller" name="Fiea::Engine::Content::ScopeWriter::SetExternalDataTeller">
+<area shape="rect" id="Node000001" title=" " alt="" coords="239,180,443,239"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_array_handler.html#a12c964e02fd52210a503839f93f9bcd5" title=" " alt="" coords="14,5,182,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,170,254,115,223,87,189,62,168,51,170,46,192,58,226,83,258,111,309,166"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_float_parse_handler.html#abc4c8eb2ad52cd9ebdafba350e9a58d7" title=" " alt="" coords="24,72,172,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,176,165,134,167,129,261,171"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_int_parse_handler.html#aa99263839bdc482fcd4a5874ef682029" title=" " alt="" coords="5,155,191,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,196,191,191,192,186,224,191"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_matrix_handler.html#af6b07a2232dbc15a91484634a6881499" title=" " alt="" coords="12,221,184,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="224,228,185,233,184,228,223,223"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_string_parse_handler.html#a6e8f0ecc1992ee741847c1ad14069a30" title=" " alt="" coords="24,288,172,347"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="261,248,167,290,165,285,258,243"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_content_1_1_vector_handler.html#a79774cea459da02c0eb57bcf2ca84821" title=" " alt="" coords="11,371,185,413"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="309,252,258,308,226,336,192,361,170,373,168,368,189,356,223,332,254,304,305,249"/>
+</map>

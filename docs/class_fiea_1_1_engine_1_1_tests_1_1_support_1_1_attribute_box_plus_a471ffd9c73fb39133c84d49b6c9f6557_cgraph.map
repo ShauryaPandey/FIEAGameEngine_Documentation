@@ -1,0 +1,17 @@
+<map id="Fiea::Engine::Tests::Support::AttributeBoxPlus::Equals" name="Fiea::Engine::Tests::Support::AttributeBoxPlus::Equals">
+<area shape="rect" id="Node000001" title="virtual function part of the vtable pointer. We are calling in the equality operator overloaded funct..." alt="" coords="5,48,186,107"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a15bd5993c8ad04da47af440298ebbb30" title=" " alt="" coords="632,5,788,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,45,233,33,335,18,438,11,535,9,617,11,617,16,535,14,438,16,336,24,234,39,187,50"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_tests_1_1_support_1_1_attribute_box.html#a95770764ad20e7eec64a873b620abf0b" title="virtual function part of the vtable pointer. We are calling in the equality operator overloaded funct..." alt="" coords="234,48,388,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,75,218,75,218,80,186,80"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a876bebbe7b3149483c43a87f55f4ea99" title=" " alt="" coords="644,115,776,157"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="187,105,234,116,340,131,447,138,546,139,629,138,629,143,546,145,447,143,340,136,233,121,185,110"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#ac0a7d875e4513b2aca7594abcd4418ef" title=" " alt="" coords="836,5,986,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="788,16,820,16,820,21,788,21"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="388,52,436,41,528,28,616,21,617,26,529,34,436,47,389,57"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a8d01baa61962f0cc56632828e53149fb" title="virtual function part of the vtable pointer. We are calling in the equality operator overloaded funct..." alt="" coords="436,56,584,99"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="388,75,421,75,421,80,388,80"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="389,97,436,108,536,122,629,129,628,135,536,127,436,113,388,103"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="584,53,647,34,648,39,586,58"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="586,97,630,110,629,115,584,102"/>
+</map>

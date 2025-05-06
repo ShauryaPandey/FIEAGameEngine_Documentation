@@ -1,0 +1,5 @@
+<map id="Fiea::Engine::Tests::HasReserve&lt; C, typename &gt;" name="Fiea::Engine::Tests::HasReserve&lt; C, typename &gt;">
+<area shape="rect" id="Node000001" title="SFINAE approach for Implementing Reserve(). With this approach containers that have Reserve() are abl..." alt="" coords="5,123,196,208"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="52,5,149,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,89,103,123,98,123,98,89"/>
+</map>

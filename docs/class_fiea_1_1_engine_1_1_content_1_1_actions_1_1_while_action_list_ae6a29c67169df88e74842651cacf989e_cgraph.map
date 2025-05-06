@@ -1,0 +1,7 @@
+<map id="Fiea::Engine::Content::Actions::WhileActionList::~WhileActionList" name="Fiea::Engine::Content::Actions::WhileActionList::~WhileActionList">
+<area shape="rect" id="Node000001" title="Destructor. It checks if the action has finished properly, if not it calls cleanup...." alt="" coords="5,43,178,101"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_while_action_list.html#a8ef9fb7a5a94d95edf9bb547025f1761" title="Optional step, to do any cleaups before the action is finished." alt="" coords="232,5,404,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,55,216,49,217,54,179,60"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_action.html#a49e62384396f5a36a6af0bb90f5c10fd" title=" " alt="" coords="226,88,411,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,84,211,89,210,94,178,89"/>
+</map>

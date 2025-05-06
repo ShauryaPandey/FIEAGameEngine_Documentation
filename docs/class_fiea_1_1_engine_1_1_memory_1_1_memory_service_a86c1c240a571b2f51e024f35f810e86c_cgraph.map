@@ -1,0 +1,7 @@
+<map id="Fiea::Engine::Memory::MemoryService::DefaultAlloc" name="Fiea::Engine::Memory::MemoryService::DefaultAlloc">
+<area shape="rect" id="Node000001" title="This is called from overriden new global. If there is an allocator in the stack it allocates memory i..." alt="" coords="5,5,205,48"/>
+<area shape="rect" id="Node000002" href="$struct_fiea_1_1_engine_1_1_memory_1_1_allocator.html#adfc8f42ced37dac861fb4ab4a147ff80" title="Allocator Alloc calls Heaps alloc since the heap is not visible to the users." alt="" coords="253,5,402,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,24,237,24,237,29,205,29"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_memory_1_1_heap.html#af24b39713764139d3437708b5dd9a2a5" title="User provides block size they want. This function iterates through blocks and checks for free and siz..." alt="" coords="450,5,599,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="402,24,435,24,435,29,402,29"/>
+</map>

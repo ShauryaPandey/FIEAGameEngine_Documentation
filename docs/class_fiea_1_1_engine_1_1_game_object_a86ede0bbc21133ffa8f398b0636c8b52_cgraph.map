@@ -1,0 +1,34 @@
+<map id="Fiea::Engine::GameObject::AddAction" name="Fiea::Engine::GameObject::AddAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,189,181,232"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#abf39accc1ce38b12bcbc6884ba0165e3" title="You can provide a child scope that you wish this scope to adopt. You should not adopt a scope if it a..." alt="" coords="229,123,377,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,186,218,168,220,173,163,191"/>
+<area shape="rect" id="Node000015" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ad924c01785b239991fc0e56a63295612" title="Return the Datum at the requested key, or nullptr if not found." alt="" coords="229,189,377,232"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="181,208,213,208,213,213,181,213"/>
+<area shape="rect" id="Node000016" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a17d10a2f6aefbd48e93f2a61dbddcd26" title=" " alt="" coords="229,256,377,299"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="163,230,220,248,218,253,161,235"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#aa91d6470fd3d3f402bbb2e765be54455" title="Return a reference to the Datum at this key. create a new Datum, if one is not found." alt="" coords="425,5,573,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="336,120,424,64,442,54,445,58,426,69,339,124"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a8f7dfeddfe92368a8d160ed2b805640f" title="Tell if this scope is present somewhere lower down in the scopes tree as a child." alt="" coords="834,177,1003,220"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="371,119,425,108,523,93,600,85,677,87,773,108,803,119,832,133,881,166,878,170,829,138,801,124,772,113,677,93,601,90,523,99,425,113,372,125"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a740662b031de78f05b9f9ce7dac13d8f" title="What is the type of the Datum, returns true or false." alt="" coords="425,123,573,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="377,141,409,141,409,147,377,147"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a4ccb082ce85390925305f19a24daaed8" title="This function is for pushing an element at the back of the data union array. It is using a universal ..." alt="" coords="425,189,573,232"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="368,163,421,181,419,186,367,168"/>
+<area shape="rect" id="Node000010" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#af6a94922a8fa123c3b22b7b4485963de" title="Setter for Parent." alt="" coords="425,323,573,365"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="362,164,379,175,395,192,406,207,427,243,475,309,471,312,423,245,401,210,391,195,375,179,359,168"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#ac2c889535360fcb22e94133869c4ae29" title=" " alt="" coords="623,123,771,165"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="564,186,616,168,618,173,565,191"/>
+<area shape="rect" id="Node000008" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#aede9c541fd5184f33e84640a787d421d" title=" " alt="" coords="621,189,773,232"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="574,208,606,208,606,213,574,213"/>
+<area shape="rect" id="Node000009" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#acae68c3bc8b20345e4c3790fa37bd8d5" title=" " alt="" coords="623,256,771,299"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="565,230,618,248,616,253,564,235"/>
+<area shape="rect" id="Node000011" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a853041a85e32e8b7de723fa3dd9a1d82" title="Tells if this scope is present somewhere higher up in the scopes tree as a parent." alt="" coords="621,323,773,365"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="574,341,606,341,606,347,574,347"/>
+<area shape="rect" id="Node000012" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a769b8bf0382518e075fb90f62940624c" title="Orpahans this scope from its parent." alt="" coords="623,389,771,432"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="565,363,618,381,616,386,564,368"/>
+<area shape="poly" id="edge11_Node000011_Node000004" title=" " alt="" coords="750,320,771,308,829,269,879,228,883,232,833,273,774,313,753,324"/>
+<area shape="rect" id="Node000013" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#abe37db932a06fabb2cb02ec65b6f55d8" title="Search for a nested Scope which is the SAME(not just equal) as the provided scope and return the Datu..." alt="" coords="821,356,1016,399"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="771,397,805,392,806,397,772,402"/>
+<area shape="rect" id="Node000014" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a23395b19af06abda786d991645b41e6d" title=" " alt="" coords="844,423,992,465"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="772,419,829,428,828,433,771,424"/>
+</map>

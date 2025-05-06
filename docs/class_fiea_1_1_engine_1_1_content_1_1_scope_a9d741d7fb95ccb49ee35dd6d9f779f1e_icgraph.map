@@ -1,0 +1,19 @@
+<map id="Fiea::Engine::Content::Scope::Clear" name="Fiea::Engine::Content::Scope::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="627,139,776,181"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a0b373136d60bb5b269b7e52419e42991" title="Copy Assignment." alt="" coords="431,39,579,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="648,133,578,96,555,84,557,80,581,91,651,129"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a61d48df64d77d9fefb55da3109f7fba6" title="Move assignment." alt="" coords="431,105,579,148"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="611,147,579,142,580,137,612,142"/>
+<area shape="rect" id="Node000008" href="$namespace_fiea_1_1_engine_1_1_tests.html#acf19d1e24b6e04bb3eefd39b994f462d" title=" " alt="" coords="438,172,572,215"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="613,178,573,185,572,179,612,173"/>
+<area shape="rect" id="Node000009" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#aa733c1955a6545125eb9b75a6a2b446a" title="Destructor." alt="" coords="431,239,579,281"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="651,191,581,229,557,240,555,236,578,224,648,187"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a4b2cb8b7f86f4b7df9fc7dd15040affe" title=" " alt="" coords="235,5,383,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,47,383,42,384,37,416,42"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#ad00b7ac2fa53d92d617e235da1f83055" title=" " alt="" coords="235,72,383,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="416,78,384,83,383,78,415,73"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_action.html#a8b550e6b4c11a011c42baf0b9b042d92" title=" " alt="" coords="5,39,187,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="219,82,187,77,188,72,220,77"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_action.html#add6e558de0fd8848db339bfb352b2164" title=" " alt="" coords="5,105,187,148"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="220,110,188,115,187,110,219,105"/>
+</map>

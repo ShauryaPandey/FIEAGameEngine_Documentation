@@ -1,0 +1,9 @@
+<map id="Fiea::Engine::Tests::Support::Foo::SetData" name="Fiea::Engine::Tests::Support::Foo::SetData">
+<area shape="rect" id="Node000001" title="Sets the data within this Foo." alt="" coords="188,72,348,115"/>
+<area shape="rect" id="Node000002" href="$namespace_fiea_1_1_engine_1_1_tests.html#aaa7584a8b305871c6cc1d1144266a08f" title=" " alt="" coords="5,5,140,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,69,136,51,138,46,190,64"/>
+<area shape="rect" id="Node000003" href="$namespace_fiea_1_1_engine_1_1_tests.html#acf19d1e24b6e04bb3eefd39b994f462d" title=" " alt="" coords="5,72,140,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,96,140,96,140,91,172,91"/>
+<area shape="rect" id="Node000004" href="$namespace_fiea_1_1_engine_1_1_tests.html#a4c38cd01e5a0cfe2b5ea3757817aaa63" title=" " alt="" coords="5,139,140,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,123,138,141,136,136,188,118"/>
+</map>

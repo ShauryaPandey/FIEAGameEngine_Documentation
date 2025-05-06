@@ -1,0 +1,9 @@
+<map id="Fiea::Engine::Tests::TEST_CLASS" name="Fiea::Engine::Tests::TEST_CLASS">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,140,89"/>
+<area shape="rect" id="Node000002" href="$struct_fiea_1_1_engine_1_1_service_manager.html#a4dfd2634d49716ab44a28a344925c722" title="This function destroys all the implementations and uses the swap trick to empty the implementations m..." alt="" coords="188,13,384,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,55,172,50,172,55,140,60"/>
+<area shape="rect" id="Node000004" href="$struct_fiea_1_1_engine_1_1_i_time_provider.html#a78bbdd14a10bc04e81b627cda29c4552" title=" " alt="" coords="194,80,378,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,76,179,82,178,87,139,81"/>
+<area shape="rect" id="Node000003" href="$struct_fiea_1_1_engine_1_1_singleton.html#a3cd32e66f37c1fbd4a51a7ff0289ba51" title=" " alt="" coords="432,5,589,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,32,416,32,416,37,385,37"/>
+</map>

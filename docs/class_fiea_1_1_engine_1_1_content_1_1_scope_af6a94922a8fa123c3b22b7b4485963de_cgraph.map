@@ -1,0 +1,13 @@
+<map id="Fiea::Engine::Content::Scope::SetParent" name="Fiea::Engine::Content::Scope::SetParent">
+<area shape="rect" id="Node000001" title="Setter for Parent." alt="" coords="5,39,154,81"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a853041a85e32e8b7de723fa3dd9a1d82" title="Tells if this scope is present somewhere higher up in the scopes tree as a parent." alt="" coords="202,5,353,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,45,186,39,186,45,155,50"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a769b8bf0382518e075fb90f62940624c" title="Orpahans this scope from its parent." alt="" coords="203,72,352,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="155,70,189,76,188,81,154,75"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a8f7dfeddfe92368a8d160ed2b805640f" title="Tell if this scope is present somewhere lower down in the scopes tree as a child." alt="" coords="414,5,583,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="353,24,399,24,399,29,353,29"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#abe37db932a06fabb2cb02ec65b6f55d8" title="Search for a nested Scope which is the SAME(not just equal) as the provided scope and return the Datu..." alt="" coords="401,72,596,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="352,91,385,91,385,96,352,96"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_content_1_1_datum.html#a23395b19af06abda786d991645b41e6d" title=" " alt="" coords="424,139,573,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="351,113,412,131,410,136,349,118"/>
+</map>

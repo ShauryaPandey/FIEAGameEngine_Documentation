@@ -1,0 +1,15 @@
+<map id="Fiea::Engine::Tests::Support::AttributeBoxPlus" name="Fiea::Engine::Tests::Support::AttributeBoxPlus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1907,175,2227"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_tests_1_1_support_1_1_attribute_box.html" title=" " alt="" coords="112,1388,255,1857"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,1872,126,1908,121,1907,129,1871"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html" title=" " alt="" coords="112,1004,250,1324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="185,1338,185,1388,179,1388,179,1338"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html" title=" " alt="" coords="112,359,250,679"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="151,679,123,836,102,1004,87,1244,81,1484,81,1706,86,1890,80,1890,76,1706,75,1484,81,1244,97,1004,118,835,145,678"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="184,694,184,1004,178,1004,178,694"/>
+<area shape="rect" id="Node000005" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html" title=" " alt="" coords="175,5,296,309"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="213,325,208,359,202,359,208,324"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_tests_1_1_support_1_1_foo.html" title=" " alt="" coords="234,703,357,980"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="261,324,265,358,280,538,291,703,286,703,275,538,260,359,256,325"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="296,980,286,1145,277,1236,265,1324,256,1372,251,1371,260,1324,272,1235,281,1145,290,980"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Fiea::Engine::Tests::Support::Foo::Data" name="Fiea::Engine::Tests::Support::Foo::Data">
+<area shape="rect" id="Node000001" title="Retrieves a copy of the data held by this foo." alt="" coords="221,139,361,181"/>
+<area shape="rect" id="Node000002" href="$namespace_fiea_1_1_engine_1_1_tests.html#aaa7584a8b305871c6cc1d1144266a08f" title=" " alt="" coords="22,5,156,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,130,217,95,171,62,150,51,152,46,174,58,220,91,259,126"/>
+<area shape="rect" id="Node000003" href="$namespace_fiea_1_1_engine_1_1_tests.html#acf19d1e24b6e04bb3eefd39b994f462d" title=" " alt="" coords="22,72,156,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,136,155,118,157,113,211,131"/>
+<area shape="rect" id="Node000004" href="$namespace_fiea_1_1_engine_1_1_tests.html#a4c38cd01e5a0cfe2b5ea3757817aaa63" title=" " alt="" coords="22,139,156,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,163,157,163,157,157,205,157"/>
+<area shape="rect" id="Node000005" href="$namespace_microsoft_1_1_visual_studio_1_1_cpp_unit_test_framework.html#a8cdaeff128ca81402be174e778bae0b3" title=" " alt="" coords="5,205,173,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="218,190,171,207,169,202,216,185"/>
+<area shape="rect" id="Node000006" href="$namespace_microsoft_1_1_visual_studio_1_1_cpp_unit_test_framework.html#a89d5cb632d76d29ee7954ab9a49acdd7" title=" " alt="" coords="5,288,173,347"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="263,195,223,237,174,278,156,290,153,285,171,274,219,233,259,191"/>
+</map>

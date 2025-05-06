@@ -1,0 +1,5 @@
+<map id="Fiea::Engine::Memory::Heap::_GetAlignedSize" name="Fiea::Engine::Memory::Heap::_GetAlignedSize">
+<area shape="rect" id="Node000001" title="Static function that aligns a number, in this case the size of the block according to the alignment...." alt="" coords="188,5,353,48"/>
+<area shape="rect" id="Node000002" href="$namespace_fiea_1_1_engine_1_1_tests.html#ad864e6947de6b37ea85f6860600bafd5" title=" " alt="" coords="5,5,140,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,29,140,29,140,24,172,24"/>
+</map>

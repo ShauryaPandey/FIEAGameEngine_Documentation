@@ -1,0 +1,11 @@
+<map id="Fiea::Engine::GameObject" name="Fiea::Engine::GameObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="122,1112,287,1459"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html" title=" " alt="" coords="5,728,143,1048"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,1061,150,1111,145,1113,129,1063"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html" title=" " alt="" coords="5,359,143,679"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,693,77,728,72,728,72,693"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html" title=" " alt="" coords="14,5,135,309"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,324,77,359,72,359,72,324"/>
+<area shape="rect" id="Node000005" href="$struct_fiea_1_1_engine_1_1_game_object_1_1_transform.html" title=" " alt="" coords="166,824,331,952"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="245,952,229,1095,223,1095,239,952"/>
+</map>

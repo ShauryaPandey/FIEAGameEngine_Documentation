@@ -1,0 +1,5 @@
+<map id="Fiea::Engine::Content::Actions::ActionList::Cleanup" name="Fiea::Engine::Content::Actions::ActionList::Cleanup">
+<area shape="rect" id="Node000001" title="Optional step, to do any cleaups before the action is finished." alt="" coords="202,5,350,64"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_actions_1_1_action_list.html#a194a9cc57f5cd3e87cf955e83250d2d1" title=" " alt="" coords="5,5,154,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,37,154,37,154,32,186,32"/>
+</map>

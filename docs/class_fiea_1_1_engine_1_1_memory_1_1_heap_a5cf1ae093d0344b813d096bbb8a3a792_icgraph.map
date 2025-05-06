@@ -1,0 +1,7 @@
+<map id="Fiea::Engine::Memory::Heap::Free" name="Fiea::Engine::Memory::Heap::Free">
+<area shape="rect" id="Node000001" title="Free the current block and check for neighboring blocks if they are free too and coalesce." alt="" coords="385,5,534,48"/>
+<area shape="rect" id="Node000002" href="$struct_fiea_1_1_engine_1_1_memory_1_1_allocator.html#a1289df9aa704294400e8ea4d20e07527" title="Allocator Free calls Heaps free." alt="" coords="188,5,337,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="370,29,337,29,337,24,370,24"/>
+<area shape="rect" id="Node000003" href="$namespace_fiea_1_1_engine_1_1_tests.html#ad864e6947de6b37ea85f6860600bafd5" title=" " alt="" coords="5,5,140,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,29,140,29,140,24,172,24"/>
+</map>

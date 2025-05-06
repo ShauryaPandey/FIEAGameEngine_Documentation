@@ -1,0 +1,7 @@
+<map id="Fiea::Engine::Tests::Support::FooManager" name="Fiea::Engine::Tests::Support::FooManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="62,139,237,267"/>
+<area shape="rect" id="Node000002" href="$struct_fiea_1_1_engine_1_1_tests_1_1_support_1_1_i_foo_maker.html" title=" " alt="" coords="5,5,139,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,103,120,138,115,140,98,105"/>
+<area shape="rect" id="Node000003" href="$struct_fiea_1_1_engine_1_1_tests_1_1_support_1_1_i_foo_taker.html" title=" " alt="" coords="163,5,293,91"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,105,184,140,179,138,198,103"/>
+</map>

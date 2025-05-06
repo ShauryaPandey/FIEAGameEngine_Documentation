@@ -1,0 +1,5 @@
+<map id="Fiea::Engine::Content::ITypeRegistrar::RegisterClassDefinition" name="Fiea::Engine::Content::ITypeRegistrar::RegisterClassDefinition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="203,5,408,64"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#af047ce48c6b7b8c8f6862c86918cdb68" title="Constructor that is called by child classes to register their class defintions with the registrar." alt="" coords="5,13,155,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,37,155,37,155,32,187,32"/>
+</map>

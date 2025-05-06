@@ -1,0 +1,57 @@
+<map id="Fiea::Engine::Tests::TEST_CLASS" name="Fiea::Engine::Tests::TEST_CLASS">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,449,140,492"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a34651717762643ed0dc822db143f7a46" title="Append instance attribute from code." alt="" coords="194,40,381,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,448,80,385,98,298,112,250,131,202,156,157,186,116,195,106,199,110,190,119,160,160,136,205,117,252,103,299,85,386,78,449"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a175ef1779adacec6434ea9bda35186bc" title="Is the attribute part of the class defintion." alt="" coords="686,173,874,216"/>
+<area shape="poly" id="edge29_Node000001_Node000004" title=" " alt="" coords="71,449,76,388,92,308,107,266,127,225,153,189,186,159,223,143,274,135,335,132,402,135,544,150,672,171,671,176,543,155,402,140,335,137,274,140,225,148,189,164,157,193,131,228,112,268,98,309,82,389,77,449"/>
+<area shape="rect" id="Node000007" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a15bd5993c8ad04da47af440298ebbb30" title=" " alt="" coords="702,541,858,568"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="99,490,139,519,189,543,254,559,321,570,389,577,457,579,583,576,687,566,687,571,583,581,457,585,389,582,320,576,253,565,187,548,137,524,96,495"/>
+<area shape="rect" id="Node000009" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a5e51837a7515cffae60d728515e207b9" title="Returns all the attributes that includes even those that a user appends to the scope." alt="" coords="213,240,362,283"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="80,448,95,414,118,372,149,330,186,293,197,285,200,289,189,297,153,333,123,375,100,416,85,450"/>
+<area shape="rect" id="Node000011" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a11d0f196f168577da9dfc5d9062b5298" title="Returns the attributes that belong to the class by definition." alt="" coords="196,173,379,216"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="75,448,87,402,108,343,141,280,162,252,186,226,190,223,193,227,189,230,166,255,145,283,113,345,92,404,81,449"/>
+<area shape="rect" id="Node000012" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a9d741d7fb95ccb49ee35dd6d9f779f1e" title=" " alt="" coords="213,689,362,732"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="83,491,98,529,120,576,151,626,189,669,204,679,201,684,186,673,146,629,116,579,93,531,78,493"/>
+<area shape="rect" id="Node000013" href="$class_fiea_1_1_engine_1_1_tests_1_1_support_1_1_foo.html#a9a37585896fc3842a9b99b40b97c1499" title="Retrieves a copy of the data held by this foo." alt="" coords="217,756,358,799"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="79,492,89,543,109,610,142,681,164,713,189,742,205,753,202,758,186,746,159,717,137,683,104,612,84,544,74,493"/>
+<area shape="rect" id="Node000014" href="$class_fiea_1_1_engine_1_1_tests_1_1_support_1_1_attribute_box.html#a95770764ad20e7eec64a873b620abf0b" title="virtual function part of the vtable pointer. We are calling in the equality operator overloaded funct..." alt="" coords="210,475,364,533"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="140,478,195,487,195,492,139,484"/>
+<area shape="rect" id="Node000016" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#ad924c01785b239991fc0e56a63295612" title="Return the Datum at the requested key, or nullptr if not found." alt="" coords="948,476,1096,519"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="90,491,130,539,157,563,189,582,287,620,375,648,455,665,531,670,608,664,688,647,775,618,872,578,887,567,896,555,905,542,920,528,932,522,935,526,923,533,909,545,901,558,891,571,875,582,777,623,689,652,609,669,531,675,454,670,373,653,285,625,187,586,154,568,126,543,86,494"/>
+<area shape="rect" id="Node000017" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a765ff8b9803452293255177e43f5e6f3" title=" " alt="" coords="188,307,387,349"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="92,447,133,407,186,366,208,354,211,358,189,370,137,411,95,451"/>
+<area shape="rect" id="Node000018" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#adaed7bf877c03d16edb097acff6bd8ac" title="Is the attribute added to the instance?" alt="" coords="435,303,638,345"/>
+<area shape="poly" id="edge30_Node000001_Node000018" title=" " alt="" coords="116,446,187,416,295,384,433,347,435,352,296,389,189,421,119,451"/>
+<area shape="rect" id="Node000019" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#aa5969fb315f7ab6f858bde895196fe1f" title="Is the string provided by the user an attribute." alt="" coords="703,353,857,396"/>
+<area shape="poly" id="edge28_Node000001_Node000019" title=" " alt="" coords="140,459,687,384,688,390,141,464"/>
+<area shape="rect" id="Node000020" href="$struct_fiea_1_1_engine_1_1_service_manager.html#a4dfd2634d49716ab44a28a344925c722" title="This function destroys all the implementations and uses the swap trick to empty the implementations m..." alt="" coords="189,823,386,865"/>
+<area shape="poly" id="edge31_Node000001_Node000020" title=" " alt="" coords="77,492,84,554,101,639,115,684,134,729,159,772,190,809,192,811,188,815,186,812,155,775,130,732,110,686,96,640,78,555,72,493"/>
+<area shape="rect" id="Node000022" href="$class_fiea_1_1_engine_1_1_tests_1_1_support_1_1_foo.html#a240fa0d74a32652abb297c818c129730" title="Sets the data within this Foo." alt="" coords="207,889,368,932"/>
+<area shape="poly" id="edge33_Node000001_Node000022" title=" " alt="" coords="76,492,79,565,93,667,107,723,127,778,154,830,190,876,196,881,192,885,186,879,150,833,122,780,102,724,88,668,73,565,71,493"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#aa91d6470fd3d3f402bbb2e765be54455" title="Return a reference to the Datum at this key. create a new Datum, if one is not found." alt="" coords="462,5,611,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,51,447,39,448,44,382,56"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="382,70,505,84,573,97,639,115,690,137,736,163,733,167,688,141,637,120,572,102,505,89,381,75"/>
+<area shape="rect" id="Node000005" href="$struct_fiea_1_1_engine_1_1_content_1_1_i_type_provider.html#acf000f8d213c81f746d8e6f19c7b12f4" title=" " alt="" coords="922,165,1122,224"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="874,192,906,192,906,197,874,197"/>
+<area shape="rect" id="Node000006" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#a876bebbe7b3149483c43a87f55f4ea99" title=" " alt="" coords="956,409,1088,452"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="805,215,990,397,986,401,802,218"/>
+<area shape="rect" id="Node000008" href="$class_fiea_1_1_engine_1_1_r_t_t_i.html#ac0a7d875e4513b2aca7594abcd4418ef" title=" " alt="" coords="947,543,1097,569"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="858,552,931,553,931,558,858,558"/>
+<area shape="rect" id="Node000010" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a425074997d68415e416d74ac9d47e4b3" title=" " alt="" coords="461,236,612,279"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="362,257,445,256,445,261,362,263"/>
+<area shape="poly" id="edge12_Node000011_Node000004" title=" " alt="" coords="379,192,671,192,671,197,379,197"/>
+<area shape="poly" id="edge11_Node000011_Node000010" title=" " alt="" coords="376,214,447,232,446,237,374,219"/>
+<area shape="poly" id="edge20_Node000014_Node000006" title=" " alt="" coords="364,474,434,456,573,438,712,428,839,425,940,425,940,431,839,430,712,433,574,443,436,461,366,479"/>
+<area shape="poly" id="edge16_Node000014_Node000007" title=" " alt="" coords="365,513,435,523,687,546,686,551,435,528,365,519"/>
+<area shape="rect" id="Node000015" href="$class_fiea_1_1_engine_1_1_content_1_1_attributed.html#a8d01baa61962f0cc56632828e53149fb" title="virtual function part of the vtable pointer. We are calling in the equality operator overloaded funct..." alt="" coords="462,471,611,513"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="365,498,447,494,447,499,365,503"/>
+<area shape="poly" id="edge19_Node000015_Node000006" title=" " alt="" coords="611,481,873,449,941,440,941,445,874,455,612,486"/>
+<area shape="poly" id="edge18_Node000015_Node000007" title=" " alt="" coords="612,508,711,534,710,539,610,514"/>
+<area shape="poly" id="edge23_Node000017_Node000010" title=" " alt="" coords="365,303,445,280,447,285,366,309"/>
+<area shape="poly" id="edge24_Node000017_Node000018" title=" " alt="" coords="388,324,419,323,419,329,388,329"/>
+<area shape="poly" id="edge27_Node000018_Node000004" title=" " alt="" coords="611,300,637,288,691,257,738,224,741,228,694,261,640,293,613,305"/>
+<area shape="poly" id="edge25_Node000018_Node000019" title=" " alt="" coords="639,343,689,353,688,358,638,348"/>
+<area shape="poly" id="edge26_Node000019_Node000016" title=" " alt="" coords="812,394,863,428,923,462,936,468,934,472,920,466,860,433,809,399"/>
+<area shape="rect" id="Node000021" href="$struct_fiea_1_1_engine_1_1_singleton.html#a3cd32e66f37c1fbd4a51a7ff0289ba51" title=" " alt="" coords="458,815,615,873"/>
+<area shape="poly" id="edge32_Node000020_Node000021" title=" " alt="" coords="386,841,442,841,442,847,386,847"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="Fiea::Engine::Tests::TEST_CLASS" name="Fiea::Engine::Tests::TEST_CLASS">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,140,272"/>
+<area shape="rect" id="Node000002" href="$struct_fiea_1_1_engine_1_1_memory_1_1_i_memory_service.html#a3f185f43d50089e6db682f8e89c84440" title=" " alt="" coords="191,5,394,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,228,93,191,116,146,147,99,186,58,191,54,194,59,189,62,151,102,120,148,98,193,83,230"/>
+<area shape="rect" id="Node000003" href="$struct_fiea_1_1_engine_1_1_memory_1_1_i_memory_service.html#a95b7f3d483d13f593b27e709f1d37f3f" title=" " alt="" coords="188,72,397,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="86,227,127,176,155,148,186,124,194,120,197,124,189,129,159,152,131,180,90,231"/>
+<area shape="rect" id="Node000004" href="$struct_fiea_1_1_engine_1_1_memory_1_1_i_allocator_provider.html#a3b9b8ebfc9c2bba3348fa60ed6ead52a" title=" " alt="" coords="218,139,367,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,226,202,199,204,204,132,231"/>
+<area shape="rect" id="Node000005" href="$struct_fiea_1_1_engine_1_1_memory_1_1_i_allocator_provider.html#a4d8e6aa235d2dd02a9cf720ece6e362c" title=" " alt="" coords="218,221,367,280"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="140,248,202,248,202,253,140,253"/>
+<area shape="rect" id="Node000006" href="$struct_fiea_1_1_engine_1_1_memory_1_1_i_allocator_provider.html#a5f8be5b3d29063bea8448fb07dd80b34" title=" " alt="" coords="216,304,368,363"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="132,270,203,297,201,302,131,275"/>
+<area shape="rect" id="Node000007" href="$struct_fiea_1_1_engine_1_1_service_manager.html#a4dfd2634d49716ab44a28a344925c722" title="This function destroys all the implementations and uses the swap trick to empty the implementations m..." alt="" coords="194,387,390,429"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="90,271,131,322,159,349,189,372,197,377,194,382,186,377,155,353,127,325,86,274"/>
+<area shape="rect" id="Node000009" href="$class_fiea_1_1_engine_1_1_memory_1_1_heap.html#a9f9e43f68d53c5d18a76620c4a016fad" title="Returns the number of bytes used so far by allocated blocks. It iterates through the headers calculat..." alt="" coords="218,453,367,496"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="83,271,98,308,120,353,151,399,189,439,205,449,202,454,186,443,147,403,116,356,93,310,79,273"/>
+<area shape="rect" id="Node000008" href="$struct_fiea_1_1_engine_1_1_singleton.html#a3cd32e66f37c1fbd4a51a7ff0289ba51" title=" " alt="" coords="445,379,602,437"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="391,405,429,405,429,411,391,411"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Fiea::Engine::Content::Scope::operator=" name="Fiea::Engine::Content::Scope::operator=">
+<area shape="rect" id="Node000001" title="Copy Assignment." alt="" coords="5,72,154,115"/>
+<area shape="rect" id="Node000002" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a9d741d7fb95ccb49ee35dd6d9f779f1e" title=" " alt="" coords="203,5,352,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,69,197,51,198,56,146,74"/>
+<area shape="rect" id="Node000003" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a853041a85e32e8b7de723fa3dd9a1d82" title="Tells if this scope is present somewhere higher up in the scopes tree as a parent." alt="" coords="202,72,353,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,91,186,91,186,96,154,96"/>
+<area shape="rect" id="Node000004" href="$class_fiea_1_1_engine_1_1_content_1_1_scope.html#a8f7dfeddfe92368a8d160ed2b805640f" title="Tell if this scope is present somewhere lower down in the scopes tree as a child." alt="" coords="401,101,570,144"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="148,113,202,124,296,130,385,129,385,134,296,136,201,129,147,118"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="354,101,386,106,385,111,353,107"/>
+</map>
