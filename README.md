@@ -27,7 +27,7 @@ The datum holds a union of these various types.
             Scope** _Scope;
         };
   ```
-- `Scope` : The second piece of the Datum & Scope data subsystem which forms a dynamic hierarchical database. Scope objects are tables that create dictionary of name-value pairs where Datum objects are the values. Each entry in a Scope table has a name and a Datum, where the Datum represents an array of values of a single type. Furthermore, an entry in a Scope table can refer to another Scope table and thereby provides the means to create user-defined types which are a Datum type. So the Datum & Scope classes form a recursive pair: Scopes are tables of Datum, some of which can be other tables (i.e. Scopes).  Also, we will ensure that each Scope has a pointer to its parent, thus forming a navigable tree of Scopes. 
+- `Scope` : The second piece of the Datum & Scope data subsystem which forms a dynamic hierarchical database. Scope objects are tables that create dictionary of name-value pairs where Datum objects are the values. Each entry in a Scope table has a name and a Datum, where the Datum represents an array of values of a single type. Furthermore, an entry in a Scope table can refer to another Scope table and thereby provides the means to create user-defined types which are a Datum type. So the Datum & Scope classes form a recursive pair: Scopes are tables of Datum, some of which can be other tables (i.e. Scopes).  Also, each Scope has a pointer to its parent, thus forming a navigable tree of Scopes. 
 
 Some important API endpoints from Scope that drive home how Scope is intended to be used.
 ```C
@@ -48,7 +48,7 @@ Some important API endpoints from Scope that drive home how Scope is intended to
   bool IsAncestorOf(const Scope& descendent) const;
   bool IsDescendentOf(const Scope& ancestor) const;
 ```
-- `Attributed`: With Scope and Datum, we have the ability to produce complex objects in a data-driven fashion. My goal, however, is more specific than just creating YASL (yet another scripting language); I want to bind the data in that language to native data within the game engine. To achieve this, the scope object must be glued directly to classes and objects in the engine’s native language (C++). Those native classes are defined at compile-time. Although the Content system allows us to create dynamic data structures at run-time, we need to express the “schema” at compile-time, to provide the required type information to mirror native classes.
+- `Attributed`: Attributed class enables custom C++ classes to have 2 way binding with their parent Scope. With Scope and Datum, we have the ability to produce complex objects in a data-driven fashion. I want to bind the data in that language to native data within the game engine. To achieve this, the scope object must be glued directly to classes and objects in the engine’s native language (C++). 
 Consider an example
 ```C
 struct Foo final
@@ -57,8 +57,7 @@ struct Foo final
      float DamagePerSecond{ 0.0f };
 };
 ```
-We want to expose this class (and objects of this class) to our scripting language. That means any time an object of type Foo is created, we want to create Scope objects which mirror those Foo objects. We want to make this “mirroring” easy to code. 
-Attributed class enables custom C++ classes to have 2 way binding with their parent Scope. To create that mapping, the following are the key ideas.
+We want to expose this class (and objects of this class) to our scripting language. That means any time an object of type Foo is created, we want to create Scope objects which mirror those Foo objects. We want to make this “mirroring” easy to code. To create that mapping, the following are the key ideas.
 ```C
     struct Signature
     {
@@ -186,8 +185,8 @@ void FloatParseHandler::ExitKey(ParseWriter& writer, const std::string& key, con
 Like this there are plenty of handlers: `ActionHandler` : Action is an Attributed and are data defined behaviours. `ActionListHandler` : ActionList is a list of actions. `ArrayHandler`: Handles arrays, `GameObjectHandler` : Handles GameObject data, `IntParseHandler`: Handles integer data, `StringParseHandler`: Handles string data, `VectorHandler`: Handles vector data, `MatrixHandler` : Handles Matrix data, `ScopeParseHandler` : Handles scopes 
 
 - `GameObject` : Extends Attributed and provides some "typical" object functionality
-     - Positioning - uses a Transform struct so that GameObject's have a position in the world
-     - Updating - GameObejct supports an Update method, which updates an Object and other GameObjects nested within it. We call them as Children GameObjects. GameObject can also have Actions attached to them and it will also call Update on its attached actions.
+     - Positioning - uses a Transform struct so that GameObjects have a position in the world
+     - Updating - GameObject supports an Update method, which updates an Object and other GameObjects nested within it. We call them as Children GameObjects. GameObject can also have Actions attached to them and it will also call Update on its attached actions.
 - `Action`: Is an Attributed the provides the users of the engine the ability to script behavior from content. It contains an Update function, returning a boolean for whether the Action is completed or ongoing. Update calls 3 virtual functions -
     - Init : optional initialization for the Action, return a boolean for whether to complete w/o Run.
     - Run :  perform the Action, return a boolean for whether completed
