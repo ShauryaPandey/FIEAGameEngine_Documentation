@@ -187,7 +187,7 @@ Like this there are plenty of handlers: `ActionHandler` : Action is an Attribute
 - `GameObject` : Extends Attributed and provides some "typical" object functionality
      - Positioning - uses a Transform struct so that GameObjects have a position in the world
      - Updating - GameObject supports an Update method, which updates an Object and other GameObjects nested within it. We call them as Children GameObjects. GameObject can also have Actions attached to them and it will also call Update on its attached actions.
-- `Action`: Is an Attributed the provides the users of the engine the ability to script behavior from content. It contains an Update function, returning a boolean for whether the Action is completed or ongoing. Update calls 3 virtual functions -
+- `Action`: Is an Attributed that provides the users of the engine the ability to script behavior from content. It contains an Update function, returning a boolean for whether the Action is completed or ongoing. Update calls 3 virtual functions -
     - Init : optional initialization for the Action, return a boolean for whether to complete w/o Run.
     - Run :  perform the Action, return a boolean for whether completed
     - Cleanup : optional cleanup from any work that was done in the init.
